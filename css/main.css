@@ -1,0 +1,14 @@
+* {
+    font-family: 'Vazir';
+    direction: rtl;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-size: 16px;;
+}
+
+a {
+    text-decoration: none;
+}
